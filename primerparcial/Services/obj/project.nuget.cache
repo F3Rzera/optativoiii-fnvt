@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "n1AmsWcg8EIK7Imj7lKN5puhr1LmTpEeq/Lie9XvYQ7RRjT1EPy6GjkTdfCM2tbzHPg2/x8erSm03Ly0DOlUEA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Fverd\\Downloads\\primerparcial\\primerparcial\\Services\\Services.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Fverd\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\Fverd\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\8.0.0\\microsoft.extensions.logging.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\Fverd\\.nuget\\packages\\npgsql\\8.0.2\\npgsql.8.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
