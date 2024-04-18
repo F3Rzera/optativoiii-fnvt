@@ -27,7 +27,7 @@ namespace Repository.Data.Repository
                 cmd.CommandText = "INSERT INTO Factura(id_cliente, id_factura, nro_factura, fecha_hora, total, total_iva5, total_iva10, total_iva, total_letras, sucursal) " +
                     $"Values(" +
                     $"{facturaModel.id_cliente}, " +
-                    $"nextval('id_factura'), " +
+                    $"nextval('seq_id_cliente'), " +
                     $"'{facturaModel.nro_factura}'," +
                     $"'{facturaModel.fecha_hora}'," +
                     $"{facturaModel.total}," +
@@ -62,7 +62,7 @@ namespace Repository.Data.Repository
                     id_factura = list.GetInt64(0),
                     id_cliente = list.GetInt64(1),
                     nro_factura = list.GetString(2),
-                    fecha_hora = list.GetDateTime(3),
+                    fecha_hora = DateTime.Parse(list.GetString(3)),
                     total = list.GetInt64(4),
                     total_iva5 = list.GetInt64(5),
                     total_iva10 = list.GetInt64(6),

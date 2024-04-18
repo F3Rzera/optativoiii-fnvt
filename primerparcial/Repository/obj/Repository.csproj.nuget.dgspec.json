@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Fverd\\Downloads\\primerparcial\\primerparcial\\Repository\\Repository.csproj": {}
+    "C:\\Users\\Fverd\\OneDrive\\Documentos\\NET\\primerparcial\\primerparcial\\Repository\\Repository.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Fverd\\Downloads\\primerparcial\\primerparcial\\Repository\\Repository.csproj": {
+    "C:\\Users\\Fverd\\OneDrive\\Documentos\\NET\\primerparcial\\primerparcial\\Repository\\Repository.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Fverd\\Downloads\\primerparcial\\primerparcial\\Repository\\Repository.csproj",
+        "projectUniqueName": "C:\\Users\\Fverd\\OneDrive\\Documentos\\NET\\primerparcial\\primerparcial\\Repository\\Repository.csproj",
         "projectName": "Repository",
-        "projectPath": "C:\\Users\\Fverd\\Downloads\\primerparcial\\primerparcial\\Repository\\Repository.csproj",
+        "projectPath": "C:\\Users\\Fverd\\OneDrive\\Documentos\\NET\\primerparcial\\primerparcial\\Repository\\Repository.csproj",
         "packagesPath": "C:\\Users\\Fverd\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Fverd\\Downloads\\primerparcial\\primerparcial\\Repository\\obj\\",
+        "outputPath": "C:\\Users\\Fverd\\OneDrive\\Documentos\\NET\\primerparcial\\primerparcial\\Repository\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

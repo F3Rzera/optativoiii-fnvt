@@ -27,7 +27,7 @@ namespace Repository.Data.Repository
                 var cmd = connection.CreateCommand();
                 cmd.CommandText = "INSERT INTO cliente(id_cliente, id_banco, nombre, apellido, documento, direccion, mail, celular, estado) " +
                     $"Values(" +
-                    "nextval('id_cliente'), " +
+                    "nextval('seq_id_cliente'), " +
                     $"'{clienteModel.id_banco}', " +
                     $"'{clienteModel.nombre}', " +
                     $"'{clienteModel.apellido}'," +

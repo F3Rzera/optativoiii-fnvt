@@ -3,7 +3,7 @@ using Repository.Data.Models;
 using Services.Logica;
 using System.Numerics;
 
-string connectionString = "Host=localhost;port=5432;Database=primerparcial;Username=postgres;Password=password;";
+string connectionString = "Host=localhost;port=5432;Database=primer_parcial;Username=postgres;Password=123456;";
 ClienteService clienteService = new ClienteService(connectionString);
 FacturaService facturaService = new FacturaService(connectionString);
 
