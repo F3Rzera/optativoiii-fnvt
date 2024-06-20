@@ -1,4 +1,4 @@
-create database segundoparcial;
+create database tercerparcial;
 
 CREATE TABLE CLIENTE(
     id_cliente numeric(10),
